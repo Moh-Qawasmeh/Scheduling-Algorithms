@@ -1,9 +1,9 @@
 
 # Operating System Scheduling algorithms 
 
-In the operating systems world there are some of algorithms to schedule the processes to enter the cpu. These algorithms are either non-preemptive or preemptive. Non-preemptive algorithms are designed so that once a process enters the running state, it cannot be preempted until it completes its allotted time, whereas the preemptive scheduling is based on priority where a scheduler may preempt a low priority running process anytime when a high priority process enters into a ready state.
+In the world of operating systems, there are some algorithms to schedule processes to enter the CPU. These algorithms are either non-preemptive or preemptive. Non-preemptive algorithms are designed so that once a process enters the running state, it cannot be preempted until it completes its allotted time, whereas the preemptive scheduling is based on priority where a scheduler may preempt a low priority running process anytime when a high priority process enters into a ready state.
 
-### I have written the code contains four functions, each of them represents an algorithms which I'm going to talk about them.
+### I have written a code contains four functions, each representing an algorithm which I'm going to talk about.
 
 #### First-Come, First-Served (FCFS)
 - Start jobs in the order they arrive.
