@@ -87,6 +87,7 @@ p2      2        6
 p3      4        4
 p4      6        5
 p5      8        2
+and time quantum = 1
 ```
 sample output:
 ```
